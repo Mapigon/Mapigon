@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I am currently studying for a master's degree at Hong Kong Baptist University.
+- 🌱 I’m now major in Data Analysis $ Artificial Intelligence.
+
 <!--
 **Mapigon/Mapigon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
